@@ -109,6 +109,6 @@ This project demonstrates how raw customer data can be transformed into meaningf
 
 ## Author
 
-Rujali Nagbhidkar  
+Yogesh Sapkale 
 CDAC – Post Graduate Diploma in Big Data Analytics
 
